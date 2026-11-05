@@ -1,5 +1,5 @@
 # Juan Manuel Beltrán Méndez
-**Estudiante de Ingeniería en Telecomunicaciones (8.º semestre) · Universidad Santo Tomás · Bogotá**
+**Estudiante de Ingeniería en Telecomunicaciones (8.º semestre) · Universidad Santo Tomás · Bogotá**<br>
 Redes · Soporte TI · Hardware · IoT · Procesamiento de señales
 
 Combino la técnica con el trato con el cliente: más de 2 años reparando y manteniendo equipos
