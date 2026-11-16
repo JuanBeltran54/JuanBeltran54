@@ -55,5 +55,5 @@ simulo enlaces de comunicación y construyo prototipos IoT.
 
 ### 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-beltran-mendez-322028368)
-![Email](https://img.shields.io/badge/juanmachelo554@outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)
+![Email](https://img.shields.io/badge/juanmaunuelbetran4@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)
 · Bogotá, Colombia · Español nativo · Inglés B1
